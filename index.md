@@ -1,91 +1,89 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# QIUSHI FENG
 
+<span class="iconify" data-icon="tabler:phone"></span> [+39 334 1954230](tel:+393341954230)
+  : <span class="iconify" data-icon="tabler:mail"></span> [fengqs99@outlook.com](mailto:fengqs99@outlook.com)
 
-## Currently
+<span class="iconify" data-icon="ic:outline-location-on"></span> Piazza Nizza, 44, 10126 Torino TO, Italy
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/qiushi-feng-79574126a](https://www.linkedin.com/in/qiushi-feng-79574126a)
 
-Standing on the shoulders of giants
+## EDUCATION
 
-### Specialized in
+**PhD Candidate within Marie Skłodowska-Curie Actions Doctoral Network**
+  : **Jan 2025 – Present**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+University of Turin
+  : Turin, Italy
 
+**Master's Programme in Pharmaceutical Modelling**
+  : **Sep 2022 – Jun 2024**
 
-### Research interests
+Uppsala University
+  : Uppsala, Sweden
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Bachelor of Natural Science in Pharmacy**
+  : **Sep 2018 – Jun 2022**
 
+Sichuan University
+  : Chengdu, China
 
-## Education
+## RESEARCH EXPERIENCE
 
-`1654-1660`
-__The King's School, Grantham.__
+**Identification of Druggable Regions in the Macrocycle Chemical Space**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+*Department of Molecular Biotechnology and Health Sciences, University of Turin*
+  : **Jan 2025 – Present**
 
-- Sizar
+**Supervisors:** Prof. Giulia Caron and Prof. Giuseppe Ermondi
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Mapped macrocycle chemical space using molecular descriptors to identify druggable regions and prioritize areas for synthetic exploration.
+- Developed chemoinformatics workflows and toolkits to generate interpretable readouts for academic and industrial collaborators.
+- Completed an industrial secondment at **AbbVie Deutschland, Ludwigshafen am Rhein, Germany**, focusing on MDCK-MDR1 efflux ratio data processing and permeability machine learning model development.
 
-- Fellow
+**Development of an Open-source Non-peptidic Macrocycle Membrane Permeability Database and Machine Learning Model**
 
+*Department of Chemistry – BMC, Organic Chemistry, Uppsala University*
+  : **Jul 2023 – Jan 2025**
 
+**Supervisors:** Docent Vasanthanathan Poongavanam and Prof. Jan Kihlberg
 
-## Awards
+- Built an open-source database and web platform for non-peptidic macrocycle membrane permeability data curated from literature, patents, and public databases.
+- Developed machine learning models using Scikit-learn and TensorFlow to predict macrocycle permeability and benchmarked dataset coverage against FDA-approved drugs.
+- Assessed model reliability using probability distributions and interpreted predictions with SHAP and LIME.
 
-`2012`
-President, *Royal Society*, London, UK
+**Photoinduced Palladium-Catalyzed Heck-Type Reactions of Bromide Gem-Difluorocyclopropanes**
 
-Associate, *French Academy of Science*, Paris, France
+*State Key Laboratory of Biotherapy, Sichuan University*
+  : **Jan 2022 – Jun 2022**
 
+**Supervisor:** Prof. Dr. Ying Xia
 
+- Investigated palladium-catalyzed reactions of gem-difluorinated cyclopropanes and alkenes under visible light irradiation.
+- Optimized reaction conditions by screening palladium catalysts, ligands, and solvents.
+- Explored substrate scope and proposed a plausible reaction mechanism based on experimental observations and literature reports.
 
-## Publications
+## PUBLICATIONS
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+1. **Feng, Q.**; De Chavez, D.; Kihlberg, J.*; Poongavanam, V*. **[A Membrane Permeability Database for Nonpeptidic Macrocycles](https://www.nature.com/articles/s41597-024-04302-z).** *Scientific Data* **2025**, **12**(1), 10.
 
-### Journals
+2. Li, B.; **Feng, Q.**; Yuan, J.; Xia, Y*. **[Access to Vinyl Gem-Difluorinated Cyclopropanes via Photopromoted Palladium-Catalyzed Heck Reaction](https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202400775).** *Chemistry – An Asian Journal* **2025**, **20**(1), e202400775.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## SKILLS
 
-`1669`
-Lectiones opticæ.
+**Programming & Data Analysis:** Python, R, SQL, Linux, Git
 
-etc. etc. etc.
+**Machine Learning & Cheminformatics:** Scikit-learn, TensorFlow, RDKit, SHAP, LIME, molecular descriptors, chemical space analysis
 
-### Patents
+**Molecular Modelling:** Molecular Operating Environment (MOE), Schrödinger Maestro®, GROMACS
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**Web Development:** Django, Streamlit, HTML, CSS, JavaScript
 
+**Laboratory Skills:** Organic synthesis, Western blot, RT-qPCR
 
-## Occupation
+## LANGUAGES
 
-`1600`
-__Royal Mint__, London
+Chinese: Native
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+English: Professional working proficiency, IELTS Academic Band Score 7.0
